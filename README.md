@@ -1,5 +1,7 @@
 👩‍💻 Manasi | 💻 Web Developer | 🇬🇧 England 
+
 [Instagram](https://www.instagram.com/m4nasi/) • [Twitter](https://twitter.com/m4nasi) 
+
 Hi 👋
 - 🔭 I’m currently working from home
 - 🌱 I’m currently learning **C# and XAML**
