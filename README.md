@@ -1,5 +1,6 @@
+👩‍💻 Manasi | 💻 Web Developer | 🇬🇧 England 
+[Instagram](https://www.instagram.com/m4nasi/) • [Twitter](https://twitter.com/m4nasi) 
 Hi 👋
-
 - 🔭 I’m currently working from home
 - 🌱 I’m currently learning **C# and XAML**
 - 💬 Languages: Python, HTML, CSS, C#, XAML
@@ -10,8 +11,6 @@ Hi 👋
 <!--
 **m4nasi/m4nasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-👩‍💻 Manasi | 💻 Web Developer | 🇬🇧 England 
 
-[Instagram](https://www.instagram.com/m4nasi/) • [Twitter](https://twitter.com/m4nasi) 
 
 
