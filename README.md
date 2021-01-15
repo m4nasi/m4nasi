@@ -12,7 +12,7 @@ Hi 👋
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=m4nasi&theme=dark&show_icons=true" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=m4nasi&theme=dark&show_icons=true" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nasi&layout=compact" />
 
 <!--
