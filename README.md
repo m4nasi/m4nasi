@@ -9,9 +9,7 @@ Hi 👋
 - 😄 Pronouns: she/her
 - 👯 I’m looking to collaborate on a potential project
 - 📫 How to reach me: [@m4nasi](https://twitter.com/m4nasi) on Twitter
-
-
-
+<hr>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=m4nasi&theme=dark&show_icons=true" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nasi&layout=compact" />
 
