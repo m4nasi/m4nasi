@@ -11,7 +11,7 @@ Hi 👋
 - 📫 How to reach me: [@m4nasi](https://twitter.com/m4nasi) on Twitter
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<m4nasi>&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<m4nasi>&theme=dark" />
 
 <!--
 **m4nasi/m4nasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
