@@ -11,7 +11,7 @@ Hi 👋
 - 📫 How to reach me: [@m4nasi](https://twitter.com/m4nasi) on Twitter
 <hr>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=m4nasi&theme=dark&show_icons=true" /> -->
-[Metrics](https://metrics.lecoq.io/m4nasi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&config.timezone=Europe%2FLondon&config.animated=true)
+<a href=("https://metrics.lecoq.io/m4nasi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&config.timezone=Europe%2FLondon&config.animated=true")>
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nasi&layout=compact" />
 
