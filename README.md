@@ -14,11 +14,11 @@ Hi 👋
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nasi&layout=compact" />
 
  uses: lowlighter/metrics@latest
-  with:
+ with:
     # ... other options
-    plugin_languages: yes
-    plugin_languages_ignored: "" # List of comma separated languages to ignore
-    plugin_languages_skipped: "" # List of comma separated repositories to skip
+ plugin_languages: yes
+ plugin_languages_ignored: ""
+ plugin_languages_skipped: ""
 
 <!--
 **m4nasi/m4nasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
