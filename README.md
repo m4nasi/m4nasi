@@ -17,4 +17,5 @@ Hi 👋
 ![Metrics](https://metrics.lecoq.io/m4nasi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&config.timezone=Europe%2FLondon&config.animated=true)
 
 <hr> 
-Statistics provided by lowlighter/metrics
+<br>
+✰ Statistics provided by [lowlighter/metrics](https://github.com/lowlighter/metrics#%EF%B8%8F-languages)
