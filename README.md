@@ -19,4 +19,3 @@ Hi 👋
 <hr> 
 <br>
 ✰ Statistics provided by [lowlighter/metrics](https://github.com/lowlighter/metrics#%EF%B8%8F-languages)
-[I'm an inline-style link](https://www.google.com)
