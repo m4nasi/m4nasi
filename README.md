@@ -1,4 +1,4 @@
-<div align='center'>
+<!--<div align='center'>-->
   👩‍💻 Manasi | 💻 Web Developer | 🇬🇧 England 
 
   [Instagram](https://www.instagram.com/m4nasi/) • [Twitter](https://twitter.com/m4nasi) 
@@ -23,7 +23,7 @@
   <!--**m4nasi/m4nasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
   ![Metrics](https://metrics.lecoq.io/m4nasi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&config.timezone=Europe%2FLondon&config.animated=true)
-</div>
+
 <!--
 <hr> 
 <br>
