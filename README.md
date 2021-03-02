@@ -4,8 +4,9 @@
   [Instagram](https://www.instagram.com/m4nasi/) • [Twitter](https://twitter.com/m4nasi) 
 
   Hi 👋
-  - 🔭 I’m currently working on a Chess Game in C# and XAML and a notedump website in HTML, CSS and JavaScript
-  - 🌱 I’m currently learning **C# and XAML**
+  - 🔭 I’m currently working on a Chess Game in C# and XAML 
+  - 🎈 I'm currently working on a Notedump website in HTML, CSS and JavaScript
+  - 🌱 I’m currently learning **C# and XAML**
   - 💬 Languages: Python, HTML, CSS, C#, XAML
   - 😄 Pronouns: she/her
   - 👯 I’m looking to collaborate on a potential project
