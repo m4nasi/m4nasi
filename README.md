@@ -4,7 +4,7 @@
   [Instagram](https://www.instagram.com/m4nasi/) • [Twitter](https://twitter.com/m4nasi) 
 
   Hi 👋
-  - 🔭 I’m currently working from home 
+  - 🔭 I’m currently working on a Chess Game in C# and XAML 
   - 🌱 I’m currently learning **C# and XAML**
   - 💬 Languages: Python, HTML, CSS, C#, XAML
   - 😄 Pronouns: she/her
