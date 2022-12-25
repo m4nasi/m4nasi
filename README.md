@@ -5,9 +5,9 @@
 
   Hi 👋
   - 🔭 I’m currently looking for a project 
-  - 🎈 I'm currently working on a Notedump website in HTML, CSS, JavaScript, C#, XAML
+  - 🎈 I'm currently working on a Notedump website in HTML, CSS, JavaScript, XAML
   - 🌱 I’m currently learning **Ansi C and ARM Assembly**
-  - 💬 Languages: Python, HTML, CSS, C#, XAML
+  - 💬 Languages: Python, HTML, CSS, C#, XAML, C
   - 😄 Pronouns: she/her
   - 👯 I’m looking to collaborate on a potential project
   - 📫 How to reach me: [@m4nasi](https://twitter.com/m4nasi) on Twitter
