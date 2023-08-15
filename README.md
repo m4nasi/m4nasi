@@ -1,16 +1,16 @@
 <!--<div align='center'>-->
   👩‍💻 Manasi | 💻 Web Developer | 🇬🇧 England 
 
-  [Instagram](https://www.instagram.com/m4nasi/) • [Twitter](https://twitter.com/m4nasi) 
+  [Instagram](https://www.instagram.com/m4nasi/) • [Twitter](https://twitter.com/m4nasi) • [Linkedin](https://linkedin.com/in/manasi-mehta11)
 
-  Hi 👋
-  - 🔭 I’m looking to collaborate on a potential project
-  - 🎈 I'm currently working through technical software engineering problems
-  - 🌱 I’m currently learning **Flutter and iOs development**
-  - 💬 Languages: Python, HTML, CSS, C#, XAML, C, Java, C
-  - 😄 Pronouns: she/her
+Hey 👋
+🔭 I’m looking to collaborate on a potential project
+🎈 I'm currently working through technical software engineering problems
+🌱 I’m currently learning **Flutter and iOs development**
+💬 Languages: Python, HTML, CSS, C#, XAML, C, Java, C
+😄 Pronouns: she/her
+📫 How to reach me: [Linkedin](https://linkedin.com/in/manasi-mehta11) on Linkedin
  <!-- - 👯 I’m looking to collaborate on a potential project -->
-  - 📫 How to reach me: [Linkedin]([https://twitter.com/m4nasi](https://linkedin.com/in/manasi-mehta11)) on Linkedin
   <hr>
   <!--<img align="centre" src="https://github-readme-stats.vercel.app/api?username=m4nasi&theme=dark&show_icons=true" /> -->
   <!--<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nasi&layout=compact" />-->
