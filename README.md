@@ -5,12 +5,12 @@
 
   Hi 👋
   - 🔭 I’m currently looking for a project 
-  - 🎈 I'm currently working on a Notedump website in HTML, CSS, JavaScript, XAML
-  - 🌱 I’m currently learning **Ansi C and ARM Assembly**
-  - 💬 Languages: Python, HTML, CSS, C#, XAML, C
+  - 🎈 I'm currently working through technical software engineering problems
+  - 🌱 I’m currently learning **Flutter and iOs development**
+  - 💬 Languages: Python, HTML, CSS, C#, XAML, C, Java, C
   - 😄 Pronouns: she/her
   - 👯 I’m looking to collaborate on a potential project
-  - 📫 How to reach me: [@m4nasi](https://twitter.com/m4nasi) on Twitter
+  - 📫 How to reach me: [Linkedin]([https://twitter.com/m4nasi](https://linkedin.com/in/manasi-mehta11)) on Linkedin
   <hr>
   <!--<img align="centre" src="https://github-readme-stats.vercel.app/api?username=m4nasi&theme=dark&show_icons=true" /> -->
   <!--<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nasi&layout=compact" />-->
