@@ -6,7 +6,7 @@
 Hey👋
 - 🔭 I’m looking to collaborate on a potential project
 - 🎈 I'm currently working through technical software engineering problems
-- 🌱 I’m currently learning **Flutter and iOs development**
+- 🌱 I’m currently learning **Flutter and iOS development**
 - 💬 Languages: Python, HTML, CSS, C#, XAML, C, Java, Haskell
 - 😄 Pronouns: she/her
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/manasi-mehta11) on Linkedin
