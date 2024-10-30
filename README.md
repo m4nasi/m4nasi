@@ -1,5 +1,5 @@
 <!--<div align='center'>-->
-  👩🏽‍💻Manasi | 👯 Computer Science Undergraduate | 🖥️ Aspiring Software Engineer |⌨️ C, Java and AI Enthusiast | 🇬🇧 England 
+  👩🏽‍💻Manasi | 👯 Computer Science Undergraduate | 🖥️ Aspiring Software Engineer |⌨️ Java and AI Enthusiast | 🇬🇧 England 
 
   [Instagram](https://www.instagram.com/m4nasi/) • [Twitter](https://twitter.com/m4nasi) • [Linkedin](https://linkedin.com/in/manasi-mehta11)
 
