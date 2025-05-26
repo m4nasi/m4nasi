@@ -5,15 +5,11 @@ Hi there! I'm Manasi 👋
 
 I'm passionate about crafting digital experiences with clean code and creative solutions. Always eager to learn and build, I'm currently expanding my toolkit and seeking new challenges.
 
-About Me
-
-🔭 What I'm doing: Actively working through technical software engineering problems and seeking potential projects to collaborate on.
-
-🌱 What I'm learning: Deep diving into React Native, App Development, and the exciting world of Three.js.
-
-💬 Languages: Java, Python, JavaScript, TypeScript, Python, HTML, CSS, C#, XAML, C, Haskell.
-
-😄 Pronouns: she/her
+About Me<br>
+🔭 What I'm doing: Actively working through technical software engineering problems and seeking potential projects to collaborate on. <br>
+🌱 What I'm learning: Deep diving into React Native, App Development, and the exciting world of Three.js.<br>
+💬 Languages: Java, Python, JavaScript, TypeScript, Python, HTML, CSS, C#, XAML, C, Haskell.<br>
+😄 Pronouns: she/her<br>
 
 Let's Connect!
 I'm always open to discussing new opportunities, interesting projects, or just chatting about tech.
