@@ -5,8 +5,6 @@ Hi there! I'm Manasi 👋
 
 I'm passionate about crafting digital experiences with clean code and creative solutions. Always eager to learn and build, I'm currently expanding my toolkit and seeking new challenges.
 
-[Instagram](https://www.instagram.com/m4nasi/) • [Linkedin](https://linkedin.com/in/manasi-mehta11)
-
 About Me
 
 🔭 What I'm doing: Actively working through technical software engineering problems and seeking potential projects to collaborate on.
@@ -20,7 +18,8 @@ About Me
 Let's Connect!
 I'm always open to discussing new opportunities, interesting projects, or just chatting about tech.
 
-📫 How to reach me: [Linkedin](https://linkedin.com/in/manasi-mehta11) on Linkedin
+<!--📫 How to reach me: [Linkedin](https://linkedin.com/in/manasi-mehta11) on Linkedin -->
+📫 [Instagram](https://www.instagram.com/m4nasi/) ⭑ [Linkedin](https://linkedin.com/in/manasi-mehta11)
 
 <!--<img align="centre" src="https://github-readme-stats.vercel.app/api?username=m4nasi&theme=dark&show_icons=true" /> -->
 <!--<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nasi&layout=compact" />-->
