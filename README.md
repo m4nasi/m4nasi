@@ -1,5 +1,6 @@
 <!--<div align='center'>-->
 Hi there! I'm Manasi 👋
+
 👩🏽‍💻 Computer Science Graduate | 🖥️ Software Engineer | ⌨️ Java and AI Enthusiast | 🇬🇧 England
 
 I'm passionate about crafting digital experiences with clean code and creative solutions. Always eager to learn and build, I'm currently expanding my toolkit and seeking new challenges.
@@ -14,6 +15,7 @@ About Me
 
 Let's Connect!
 I'm always open to discussing new opportunities, interesting projects, or just chatting about tech.
+
 📫 How to reach me: [Linkedin](https://linkedin.com/in/manasi-mehta11) on Linkedin
 
 <!--<img align="centre" src="https://github-readme-stats.vercel.app/api?username=m4nasi&theme=dark&show_icons=true" /> -->
