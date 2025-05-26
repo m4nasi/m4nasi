@@ -17,7 +17,7 @@ I'm always open to discussing new opportunities, interesting projects, or just c
 <!--📫 How to reach me: [Linkedin](https://linkedin.com/in/manasi-mehta11) on Linkedin -->
 📫 [Instagram](https://www.instagram.com/m4nasi/) ⭑ [Linkedin](https://linkedin.com/in/manasi-mehta11)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4nasi&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4nasi&layout=compact)-->
 
 <!--<img align="centre" src="https://github-readme-stats.vercel.app/api?username=m4nasi&theme=dark&show_icons=true" /> -->
 <!--<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nasi&layout=compact" />-->
