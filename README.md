@@ -11,8 +11,6 @@ About Me<br>
 💬 Languages: Java, Python, JavaScript, TypeScript, Python, HTML, CSS, C#, XAML, C, Haskell.<br>
 😄 Pronouns: she/her<br>
 
-Absolutely — let’s organise these tech icons into clean, logical categories you could use for your GitHub profile README. I’ll arrange them neatly by **Languages**, **Frontend**, **Backend & Databases**, **Tools & DevOps**, **Data Science & AI**, and **Other**.
-
 ## 📚 Languages
 
 <div>
